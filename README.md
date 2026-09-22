@@ -1,3 +1,6 @@
+!pip install colab-x11
+import colab_x11
+colab_x11.start()
 import tkinter as tk
 from tkinter import messagebox
 import sys
